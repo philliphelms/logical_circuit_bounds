@@ -40,4 +40,11 @@ except for the data displayed in Figure 1 (b), which is generated
 when the script is run. 
 
 ## Running the code and generating data
+To run calculations, navigate to any of the following directories, 
+whose READMEs have instructions for generating the data from the paper
+```
+./logical_circuit_bounds/not_gate/
+./logical_circuit_bounds/memory_device/
+./logical_circuit_bounds/clock/
+```
 
